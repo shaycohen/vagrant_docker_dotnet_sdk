@@ -1,2 +1,4 @@
 .vagrant
 .DS_Store
+MyWebApp/bin/Debug/*.dll
+MyWebApp/bin/Debug/*.pdb
